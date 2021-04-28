@@ -1,0 +1,10 @@
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\bin\Debug\Pijaloci.exe.config
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\bin\Debug\Pijaloci.exe
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\bin\Debug\Pijaloci.pdb
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.csprojResolveAssemblyReference.cache
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.Form1.resources
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.Properties.Resources.resources
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.csproj.GenerateResource.Cache
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.csproj.CoreCompileInputs.cache
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.exe
+C:\Users\Neno\source\repos\Pijaloci\Pijaloci\obj\Debug\Pijaloci.pdb
